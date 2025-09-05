@@ -1,3 +1,99 @@
+✨ **Excited to share my latest project**! ✨
+
+**Project Name: Customer-Churn-Prediction SQL Project using Windows function in SQL**
+
+🚀 **Problem Statement**
+
+- Customer churn (customers leaving a company) is a huge problem for subscription-based businesses.
+The challenge is to analyze customer behavior, identify churn risk, and retain customers before they leave.
+
+🚀 **Solution**
+
+- Using SQL Windows Functions, we performed advanced analytics such as:
+
+  1. Ranking customers by churn probability
+
+  2. Finding average tenure and charges across groups
+
+  3. Calculating running totals & moving averages for churn trends
+  
+  4. Identifying top churn reasons using ranking functions
+
+   
+🚀 **concepts used in this project**.
+
+    1.	Define windows functions in sql
+    2.	Types of clauses
+    3.	Aggregate windows functions
+    4.	Ranking windows functions
+    5.	Miscellaneous windows functions
+
+🚀 **Goal**: 
+
+- To predict and analyze churn behavior using SQL.
+- To gain insights that help in customer retention strategies.
+- To showcase real-time SQL expertise for Data Scientist/Analyst interviews.
+
+🚀 **Tech stack**: 
+
+- Database: MySQL
+- Tools: SQL Workbench / Jupyter Notebook with SQL connector
+- Dataset: Customer Churn dataset
+
+🚀 **Tech Used**
+
+- Windows Functions in SQL (Aggregate, Ranking, Miscellaneous)
+- Database Normalization
+- Advanced Queries with Joins & Subqueries
+- Churn prediction insights
+  
+🚀 **Key skills shown**: 
+
+- SQL Windows Functions (OVER, PARTITION BY, ORDER BY)
+- Churn trend analysis with aggregate functions
+- Ranking churned customers
+- Writing real-world SQL reports
+
+🚀 **What I did in this project**?
+
+- Created normalized tables (Customers, Contracts, Services, Payments)
+- Applied Windows Functions to churn dataset
+- Solved real-time business problems like:
+- Who are the top churn customers by charges?
+- What’s the average monthly charges for churned vs active customers?
+- Which tenure range has the highest churn?
+- Generated insights dashboards with SQL queries
+
+🚀 **What I learnt**?
+
+- Mastered Windows Functions in SQL
+- Learnt Aggregate, Ranking, Miscellaneous window functions
+- Understood real-world churn analytics use cases
+- Improved SQL problem-solving for Data Science
+
+🚀 **What is impact**?
+
+- Helped business reduce churn by identifying high-risk customers early
+- Provided data-driven retention strategies
+- Made the project resume-ready & job-attractive
+
+🚀 **Skills Used**
+
+**SQL | Windows Functions | Churn Analytics | Data Analysis | Business Intelligence | Customer Retention**
+
+**#CustomerChurnPrediction #SQLProject #WindowsFunctions #DataAnalytics #BusinessIntelligence #MySQL #DataScienceProjects #CustomerRetention #FresherDataScientist #ChurnAnalysis**
+
+
+
+
+
+
+
+
+
+
+
+
 **Windows function in SQL** 
 
 <img width="876" height="153" alt="5  definition of windows functions" src="https://github.com/user-attachments/assets/59943426-c45a-4dc9-b118-cf587c792765" />
