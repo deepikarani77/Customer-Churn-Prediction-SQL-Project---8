@@ -4,12 +4,12 @@
 
 🚀 **Problem Statement**
 
-- Customer churn (customers leaving a company) is a huge problem for subscription-based businesses.
+Customer churn (customers leaving a company) is a huge problem for subscription-based businesses.
 The challenge is to analyze customer behavior, identify churn risk, and retain customers before they leave.
 
 🚀 **Solution**
 
-- Using SQL Windows Functions, we performed advanced analytics such as:
+Using SQL Windows Functions, we performed advanced analytics such as:
 
   1. Ranking customers by churn probability
 
@@ -22,11 +22,11 @@ The challenge is to analyze customer behavior, identify churn risk, and retain c
    
 🚀 **concepts used in this project**.
 
-    1.	Define windows functions in sql
-    2.	Types of clauses
-    3.	Aggregate windows functions
-    4.	Ranking windows functions
-    5.	Miscellaneous windows functions
+1. Define windows functions in sql
+2. Types of clauses
+3. Aggregate windows functions
+4. Ranking windows functions
+5. Miscellaneous windows functions
 
 🚀 **Goal**: 
 
@@ -79,7 +79,7 @@ The challenge is to analyze customer behavior, identify churn risk, and retain c
 
 🚀 **Skills Used**
 
-**SQL | Windows Functions | Churn Analytics | Data Analysis | Business Intelligence | Customer Retention**
+- **SQL | Windows Functions | Churn Analytics | Data Analysis | Business Intelligence | Customer Retention**
 
 **#CustomerChurnPrediction #SQLProject #WindowsFunctions #DataAnalytics #BusinessIntelligence #MySQL #DataScienceProjects #CustomerRetention #FresherDataScientist #ChurnAnalysis**
 
